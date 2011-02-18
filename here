@@ -1,0 +1,26 @@
+basic version, using hashmaps and lacking documentation.
+:quit
+
+:q
+:Q
+:q
+:quit
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   Entry.class
+#	new file:   Entry.ctxt
+#	new file:   Entry.java
+#	new file:   Phonebook.class
+#	new file:   Phonebook.ctxt
+#	new file:   Phonebook.java
+#	new file:   README.TXT
+#	new file:   package.bluej
+#
